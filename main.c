@@ -264,7 +264,7 @@ int main(int argc, char *argv[]) {
         if (result.size < 0) {
             return -1;
         }
-        printf("%s %c %s = %s", a_value.char_array, operator, a_value.char_array, result.char_array);
+        printf("%s %c %s = %s", a_value.char_array, operator, b_value.char_array, result.char_array);
     }
 
 
