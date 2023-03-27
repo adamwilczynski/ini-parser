@@ -1,3 +1,5 @@
+// Kuba Czech & Adam Wilczyński
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
